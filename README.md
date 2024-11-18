@@ -1,6 +1,5 @@
 # snp500_prediction
 
-Here's a sample README for your GitHub repository that showcases your machine learning project using the Random Forest technique to predict stock trading movements. Feel free to customize it further to match your style!
 
 ```markdown
 # Stock Trading Prediction using Random Forest
